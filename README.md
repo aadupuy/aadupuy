@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🌌 Hey there, I'm Alexandra!
 
-<!--
-**aadupuy/aadupuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Astrophysicist and data explorer — I use observational data to map galaxies and dark matter in our Universe,  
+and I’m orbiting into data science, deep learning, and AI along the way.
 
-Here are some ideas to get you started:
+🪐 I like making sense of noisy universes — cosmic or otherwise.  
+💫 Here I share both my astrophysics projects and my personal experiments as I explore data closer to home: real-world datasets and practical AI/ML challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧭 What you'll find here
+- 🌌 Cosmic projects: galaxy data analysis, modeling statistics, and creating pretty visualizations of the universe  
+- 🌍 Earthly projects: applying machine learning, deep learning, and data science to real-world datasets  
+
+### ☕ About me
+- 📍 Based in Seoul, South Korea  
+- 🎓 PhD in Astrophysics 
+- 🧩 Always learning — Python, AI, and how to make plots look cooler than they need to be  
+
+---
+
+> “Some people look at data and see noise — I see constellations.”
