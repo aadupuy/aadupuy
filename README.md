@@ -14,7 +14,3 @@ and I’m orbiting into data science, deep learning, and AI along the way.
 - 📍 Based in Seoul, South Korea  
 - 🎓 PhD in Astrophysics 
 - 🧩 Always learning — Python, AI, and how to make plots look cooler than they need to be  
-
----
-
-> “Some people look at data and see noise — I see constellations.”
